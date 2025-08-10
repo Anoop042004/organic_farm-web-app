@@ -1,0 +1,14 @@
+{
+  "name": "organic-farm-web-app",
+  "version": "1.0.0",
+  "description": "Node.js app with MySQL for Organic Farm",
+  "main": "loginserver.js",
+  "scripts": {
+    "start": "node loginserver.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mysql": "^2.18.1"
+  }
+}
